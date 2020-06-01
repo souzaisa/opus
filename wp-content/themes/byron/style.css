@@ -1,0 +1,188 @@
+/*
+Theme Name: Template Projeto byron.solutions
+Theme URI: https://byronsolutions.com
+Author: byron.solutions
+Author URI: https://byronsolutions.com
+Description: Template dos Projetos Wordpress executados na empresa júnior byron.solutions
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: byron.solutions
+Tags: byron.solutions
+*/
+
+/*
+*   Insira aqui o estilo referente a seção ou parte do código 
+*   Inicio seção 1
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.example {
+
+}
+
+#example {
+
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .example {
+
+    }
+    
+    #example {
+    
+    }
+} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .example {
+
+    }
+    
+    #example {
+    
+    }
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .example {
+
+    }
+    
+    #example {
+    
+    }
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .example {
+
+    }
+    
+    #example {
+    
+    }
+}
+
+/*  Footer  */
+
+
+.page-footer {
+    margin: 0!important;
+    padding-top: 0!important;
+    background-color: #fbfbfb!important;
+}
+.conteudo-footer{
+    display: grid;
+    color: #787878;
+    padding: 2rem 1.5rem;
+    grid-row-gap: 10px;
+}
+.logo-footer{
+    width: 200px;
+    justify-self: center;
+}
+.contato-footer h5{
+    color: #62bcb7;
+    font-weight: 600;   
+}
+.info-footer{
+    display: grid;
+    grid-row-gap: 10px;
+}
+.icones-footer{
+    display: grid;
+    font-size: 1.8rem;
+    grid-row-gap: 10px;
+}
+.footer-copyright {
+    background-color: #62bcb7!important;
+    padding: 0!important;
+    color: white!important;
+}
+
+.footer-copyright .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 15px 0;
+}
+
+.footer-copyright .container p {
+    margin: 0;
+    text-align: center;
+    align-self: center;
+} 
+
+.footer-copyright .container a {
+    height: 30px;
+}
+.footer-copyright .container img {
+    max-width: 100%;
+    max-height: 100%!important;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 600px) {
+    .footer-copyright .container {
+        grid-template-columns: auto auto;
+        grid-column-gap: 10px;
+        padding: 0px;
+    }
+
+    .footer-copyright .container p {
+        text-align: right;
+    }
+
+    .footer-copyright .container img {
+        float: left;
+    }    
+}
+
+@media only screen and (min-width: 768px) {
+    .conteudo-footer{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .logo-footer{
+        width: 180px;
+        align-self: center;
+    }
+    .contato-footer{
+        justify-self: center;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .conteudo-footer{
+        padding: 3rem 2rem;
+    }
+    .logo-footer{
+        width: 230px;
+    }
+    .info-footer{
+        grid-row-gap: 25px;
+        padding-top: 10px;
+    }
+    .icones-footer{
+        padding-top: 10px;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    .conteudo-footer{
+        padding: 4rem 8rem;
+    }
+}
