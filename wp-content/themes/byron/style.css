@@ -77,12 +77,155 @@ Tags: byron.solutions
     
     }
 }
+/*  Página de Serviços  */
+.p-servicos{
+    padding: 1rem;
+}
+.p-servicos h4{
+    text-align: center;
+    font-size: 1.9rem;
+    font-weight: bold;
+    color: #62bcb7;
+}
+.area-servicos{
+    display: grid;
+    justify-items: center;
+}
+.area-servicos .card{
+    border-radius: 15px;
+    width: 95%;
+}
+.area-servicos .card .card-image img{
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px 15px 0 0;
+}
+.area-servicos .card h5{
+    font-weight: 600;
+    color: #62bcb7;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.area-servicos .card .subtitulo{
+    text-align: center;
+    text-transform: uppercase;
+    color: #787878;
+    border-bottom: 1px solid rgba(160, 160, 160, 0.55);
+    padding-bottom: 1rem;
+}
+
+.botao-servicos{
+    padding-bottom: 2rem;
+}
+.botao-servicos .btn{
+    background: #62BCB7;
+    border-radius: 8px;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 10px;
+}
+
+@media only screen and (min-width: 700px) {
+    .area-servicos{
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
+    }
+}
+@media only screen and (min-width: 920px){
+    .p-servicos {
+        padding: 3rem 2rem 0 2rem;
+    }
+    .p-servicos h4{
+        font-size: 2.3rem;
+        padding-bottom: 2rem;
+    }
+    .area-servicos{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+/*  Página de Contato  */
+.p-contato{
+    padding-top: 2rem;
+}
+.p-contato h5{
+    text-align: center;
+    padding-bottom: 2rem;
+    color: #62bcb7;
+}
+.area-contato{
+    display: grid;
+    background-color: #fbfbfb;
+    box-shadow: 6px 4px 15px 0px rgba(0, 0, 0, 0.08), 12px 11px 14px 0 rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+}
+
+.area-contato img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+/*  Formulário de Contato  */
+.forms-contato{
+    padding: 1rem 2rem;
+
+}
+div.wpforms-container-full .wpforms-form input[type=date], div.wpforms-container-full .wpforms-form input[type=datetime], textarea.wpforms-field-medium, div.wpforms-container-full .wpforms-form input[type=datetime-local], div.wpforms-container-full .wpforms-form input[type=email], div.wpforms-container-full .wpforms-form input[type=month], div.wpforms-container-full .wpforms-form input[type=number], div.wpforms-container-full .wpforms-form input[type=password], div.wpforms-container-full .wpforms-form input[type=range], div.wpforms-container-full .wpforms-form input[type=search], div.wpforms-container-full .wpforms-form input[type=tel], div.wpforms-container-full .wpforms-form input[type=text], div.wpforms-container-full .wpforms-form input[type=time], div.wpforms-container-full .wpforms-form input[type=url], div.wpforms-container-full .wpforms-form input[type=week], div.wpforms-container-full .wpforms-form select, div.wpforms-container-full .wpforms-form textarea {
+    border: none!important;
+    border-bottom: 2px solid #62BCB7!important;
+    border-radius: 0px!important;
+    margin-bottom: 10px!important;
+    padding: 0!important;
+    background-color: #fbfbfb!important;
+    font-family: 'Poppins', sans-serif!important;
+}
+div.wpforms-container-full .wpforms-form button[type=submit]{
+    border: none!important;
+    background: #62BCB7!important;
+    color: #fbfbfb!important;
+    font-size: 1.2rem!important;
+    padding: 10px 40px!important;
+    border-radius: 5px!important;
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.06), 0px 2px 3px 0 rgba(0, 0, 0, 0.15);
+    transition: 0.5s;
+    font-family: 'Poppins', sans-serif!important;
+}
+div.wpforms-container-full .wpforms-form button[type=submit]:hover{
+    background: #62bcb7d1!important;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.06), 0px 3px 4px 0 rgba(0, 0, 0, 0.15);
+}
+div.wpforms-container-full .wpforms-form .wpforms-submit-container {
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .p-contato{
+        padding-top: 5rem;
+    }
+    .area-contato{
+        grid-template-columns: 1fr 1fr;
+    }
+    .area-contato img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px 0 0 10px;
+    }
+    .forms-contato{
+        padding: 3rem 4rem 1rem 2rem;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .forms-contato{
+        padding: 12%;
+    }
+}
+
 
 /*  Footer  */
-
-
 .page-footer {
-    margin: 0!important;
+    margin: 5rem 0 0 0!important;
     padding-top: 0!important;
     background-color: #fbfbfb!important;
 }
@@ -91,6 +234,12 @@ Tags: byron.solutions
     color: #787878;
     padding: 2rem 1.5rem;
     grid-row-gap: 10px;
+}
+.conteudo-footer a{
+    color: #787878;
+}
+.conteudo-footer a:hover{
+    color: #787878bd;
 }
 .logo-footer{
     width: 200px;
@@ -107,7 +256,6 @@ Tags: byron.solutions
 .icones-footer{
     display: grid;
     font-size: 1.8rem;
-    grid-row-gap: 10px;
 }
 .footer-copyright {
     background-color: #62bcb7!important;

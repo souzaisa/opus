@@ -71,11 +71,11 @@ add_action('after_setup_theme', 'byron_theme_setup');
 function create_post_type() {
 
     // Register Post Type
-    register_post_type( 'Exemplo',
+    register_post_type( 'Serviços',
       array(
         'labels' => array(
-          'name' => __( 'Exemplo' ),
-          'singular_name' => __( 'Exemplo' )
+          'name' => __( 'Serviços' ),
+          'singular_name' => __( 'Serviços' )
         ),
         'public'      => true,
         'has_archive' => false,
@@ -84,6 +84,6 @@ function create_post_type() {
             'supports'    => ['title','editor','thumbnail', 'excerpt', 'author'],//Seções presentes no post type
         'rewrite'     => array('slug' => 'Serviços')
       )
-    );
-   
+    );  
 }
+add_action( 'init', 'create_post_type' );

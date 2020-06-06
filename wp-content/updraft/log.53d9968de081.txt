@@ -1,0 +1,349 @@
+0000.001 (0) Opened log file at time: Sat, 06 Jun 2020 01:27:55 +0000 on http://localhost/opuscare
+0000.068 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.1 PHP: 7.1.4 (apache2handler, Windows NT DESKTOP-3F8K9FO 10.0 build 18362 (Windows 10) i586) MySQL: 10.1.22-MariaDB WPLANG: pt_BR Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/7.1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 37.5M | 4M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.128 (0) Free space on disk containing Updraft's temporary directory: 116329 MB
+0000.202 (0) Deleting old log file: log.9a3c0c0fa34e.txt
+0000.272 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.356 (0) Semaphore (fd, wp_options) being initialised
+0000.600 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.766 (0) Set semaphore last lock (fd) time to 2020-06-06 01:27:55
+0000.800 (0) Semaphore lock (fd) complete
+0000.989 (0) Backup run: resumption=0, nonce=53d9968de081, file_nonce=53d9968de081 begun at=1591406875 (1s ago), job type=backup
+0001.144 (0) Scheduling a resumption (1) after 300 seconds (1591407176) in case this run gets aborted
+0001.275 (0) Checking if we have a zip executable available
+0001.425 (0) Creation of backups of directories: beginning
+0001.612 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0008.626 (0) Total entities for the zip file: 851 directories, 5370 files (0 skipped as non-modified), 73.5 MB
+0008.695 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0010.944 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 100 files added (on-disk size: 151.9 KB)
+0011.930 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.4 MB, 198 (199) files added so far); re-opening (prior size: 151.9 KB)
+0012.902 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 200 files added (on-disk size: 1416.3 KB)
+0014.695 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 300 files added (on-disk size: 1416.3 KB)
+0014.937 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 110 (309) files added so far); re-opening (prior size: 1416.3 KB)
+0017.936 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 67 (376) files added so far); re-opening (prior size: 2438 KB)
+0019.188 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 400 files added (on-disk size: 2700 KB)
+0020.920 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 102 (478) files added so far); re-opening (prior size: 2700 KB)
+0021.681 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 500 files added (on-disk size: 2801 KB)
+0023.939 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 114 (592) files added so far); re-opening (prior size: 2801 KB)
+0025.124 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 600 files added (on-disk size: 2975.2 KB)
+0026.934 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 36 (628) files added so far); re-opening (prior size: 2975.2 KB)
+0028.706 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 700 files added (on-disk size: 3100.1 KB)
+0029.930 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 132 (760) files added so far); re-opening (prior size: 3100.1 KB)
+0031.882 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 800 files added (on-disk size: 6462.4 KB)
+0032.962 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.8 MB, 101 (861) files added so far); re-opening (prior size: 6462.4 KB)
+0034.974 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 900 files added (on-disk size: 10332.8 KB)
+0035.624 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1000 files added (on-disk size: 10332.8 KB)
+0036.949 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 178 (1039) files added so far); re-opening (prior size: 10332.8 KB)
+0039.775 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1100 files added (on-disk size: 11328.3 KB)
+0039.934 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 65 (1104) files added so far); re-opening (prior size: 11328.3 KB)
+0042.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6 MB, 78 (1182) files added so far); re-opening (prior size: 11661.7 KB)
+0045.539 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1200 files added (on-disk size: 13165.1 KB)
+0046.957 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1300 files added (on-disk size: 13165.1 KB)
+0047.935 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.6 MB, 160 (1342) files added so far); re-opening (prior size: 13165.1 KB)
+0051.907 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1400 files added (on-disk size: 15475.4 KB)
+0052.930 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 88 (1430) files added so far); re-opening (prior size: 15475.4 KB)
+0055.881 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1500 files added (on-disk size: 15566.1 KB)
+0055.963 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 71 (1501) files added so far); re-opening (prior size: 15566.1 KB)
+0058.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 76 (1577) files added so far); re-opening (prior size: 15620.7 KB)
+0060.081 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1600 files added (on-disk size: 15749.2 KB)
+0061.947 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 105 (1682) files added so far); re-opening (prior size: 15749.2 KB)
+0063.893 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1700 files added (on-disk size: 16005.2 KB)
+0065.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 96 (1778) files added so far); re-opening (prior size: 16005.2 KB)
+0067.591 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1800 files added (on-disk size: 16102.6 KB)
+0068.949 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 67 (1845) files added so far); re-opening (prior size: 16102.6 KB)
+0071.391 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 1900 files added (on-disk size: 16184.7 KB)
+0071.926 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 72 (1917) files added so far); re-opening (prior size: 16184.7 KB)
+0074.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 60 (1977) files added so far); re-opening (prior size: 16262.6 KB)
+0077.203 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2000 files added (on-disk size: 16558 KB)
+0077.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 57 (2034) files added so far); re-opening (prior size: 16558 KB)
+0079.649 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2100 files added (on-disk size: 16610.2 KB)
+0080.937 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 118 (2152) files added so far); re-opening (prior size: 16610.2 KB)
+0083.445 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2200 files added (on-disk size: 16732.9 KB)
+0083.699 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2300 files added (on-disk size: 16732.9 KB)
+0083.943 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 172 (2324) files added so far); re-opening (prior size: 16732.9 KB)
+0084.692 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2400 files added (on-disk size: 16955.6 KB)
+0085.775 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2500 files added (on-disk size: 16955.6 KB)
+0087.035 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 228 (2552) files added so far); re-opening (prior size: 16955.6 KB)
+0089.970 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 13 (2565) files added so far); re-opening (prior size: 17338.4 KB)
+0092.963 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 18 (2583) files added so far); re-opening (prior size: 17363.6 KB)
+0095.477 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2600 files added (on-disk size: 17385.3 KB)
+0096.405 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 24 (2607) files added so far); re-opening (prior size: 17385.3 KB)
+0099.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 39 (2646) files added so far); re-opening (prior size: 17411.7 KB)
+0101.774 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2700 files added (on-disk size: 17446.3 KB)
+0102.981 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 91 (2737) files added so far); re-opening (prior size: 17446.3 KB)
+0105.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 40 (2777) files added so far); re-opening (prior size: 17824.7 KB)
+0106.903 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2800 files added (on-disk size: 17907.8 KB)
+0108.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 56 (2833) files added so far); re-opening (prior size: 17907.8 KB)
+0111.940 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 23 (2856) files added so far); re-opening (prior size: 17970.7 KB)
+0114.024 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 2900 files added (on-disk size: 18005.8 KB)
+0114.934 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 68 (2924) files added so far); re-opening (prior size: 18005.8 KB)
+0117.941 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 39 (2963) files added so far); re-opening (prior size: 18126.5 KB)
+0119.733 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3000 files added (on-disk size: 18193.5 KB)
+0120.925 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 97 (3060) files added so far); re-opening (prior size: 18193.5 KB)
+0123.924 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 39 (3099) files added so far); re-opening (prior size: 18350.6 KB)
+0124.574 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3100 files added (on-disk size: 18400.8 KB)
+0126.932 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 14 (3113) files added so far); re-opening (prior size: 18400.8 KB)
+0130.921 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 69 (3182) files added so far); re-opening (prior size: 18421.3 KB)
+0133.090 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3200 files added (on-disk size: 18655.1 KB)
+0133.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 39 (3221) files added so far); re-opening (prior size: 18655.1 KB)
+0137.170 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 41 (3262) files added so far); re-opening (prior size: 18737.8 KB)
+0139.525 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3300 files added (on-disk size: 18917.3 KB)
+0139.932 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 90 (3352) files added so far); re-opening (prior size: 18917.3 KB)
+0142.920 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 47 (3399) files added so far); re-opening (prior size: 19238.8 KB)
+0143.691 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3400 files added (on-disk size: 19358.8 KB)
+0145.936 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 83 (3482) files added so far); re-opening (prior size: 19358.8 KB)
+0148.814 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3500 files added (on-disk size: 19462.3 KB)
+0148.946 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 19 (3501) files added so far); re-opening (prior size: 19462.3 KB)
+0151.921 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 44 (3545) files added so far); re-opening (prior size: 19500.1 KB)
+0154.967 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 42 (3587) files added so far); re-opening (prior size: 19580.2 KB)
+0156.513 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3600 files added (on-disk size: 19612.9 KB)
+0157.939 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 48 (3635) files added so far); re-opening (prior size: 19612.9 KB)
+0160.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 12 (3647) files added so far); re-opening (prior size: 19672.9 KB)
+0164.134 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 18 (3665) files added so far); re-opening (prior size: 19687.3 KB)
+0166.879 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3700 files added (on-disk size: 19704.9 KB)
+0167.937 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 60 (3725) files added so far); re-opening (prior size: 19704.9 KB)
+0170.935 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 40 (3765) files added so far); re-opening (prior size: 19776.2 KB)
+0174.001 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (3779) files added so far); re-opening (prior size: 19812.9 KB)
+0175.146 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3800 files added (on-disk size: 19829.4 KB)
+0176.968 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 47 (3826) files added so far); re-opening (prior size: 19829.4 KB)
+0179.957 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 24 (3850) files added so far); re-opening (prior size: 19898.1 KB)
+0183.038 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 3900 files added (on-disk size: 19950.8 KB)
+0183.950 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 69 (3919) files added so far); re-opening (prior size: 19950.8 KB)
+0188.001 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 34 (3953) files added so far); re-opening (prior size: 20238.4 KB)
+0190.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 12 (3965) files added so far); re-opening (prior size: 20311.7 KB)
+0195.164 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4000 files added (on-disk size: 20981.4 KB)
+0195.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 45 (4010) files added so far); re-opening (prior size: 20981.4 KB)
+0200.225 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 19 (4029) files added so far); re-opening (prior size: 21364.6 KB)
+0204.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 4 (4033) files added so far); re-opening (prior size: 21661.1 KB)
+0209.204 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 3 (4036) files added so far); re-opening (prior size: 21680.3 KB)
+0214.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 14 (4050) files added so far); re-opening (prior size: 22341.1 KB)
+0218.350 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4100 files added (on-disk size: 22441.7 KB)
+0218.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 66 (4116) files added so far); re-opening (prior size: 22441.7 KB)
+0221.965 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 5 (4121) files added so far); re-opening (prior size: 22835.8 KB)
+0225.203 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 22 (4143) files added so far); re-opening (prior size: 22849.3 KB)
+0228.976 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 17 (4160) files added so far); re-opening (prior size: 22920.5 KB)
+0232.972 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 12 (4172) files added so far); re-opening (prior size: 22954.1 KB)
+0235.903 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4200 files added (on-disk size: 22970.6 KB)
+0237.154 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 36 (4208) files added so far); re-opening (prior size: 22970.6 KB)
+0241.970 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 23 (4231) files added so far); re-opening (prior size: 23039.1 KB)
+0245.969 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 41 (4272) files added so far); re-opening (prior size: 23066.6 KB)
+0248.932 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 7 (4279) files added so far); re-opening (prior size: 23159.1 KB)
+0252.927 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4300 files added (on-disk size: 23172.1 KB)
+0253.974 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 44 (4323) files added so far); re-opening (prior size: 23172.1 KB)
+0257.060 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 9 (4332) files added so far); re-opening (prior size: 23239.6 KB)
+0258.425 (0) The scheduled resumption is within 45 seconds - will reschedule
+0258.560 (0) Rescheduling resumption 1: moving to 345 seconds from now (1591407478)
+0258.816 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0261.114 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4400 files added (on-disk size: 23254.1 KB)
+0261.994 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 86 (4418) files added so far); re-opening (prior size: 23254.1 KB)
+0267.047 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 10 (4428) files added so far); re-opening (prior size: 23390.5 KB)
+0272.269 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 10 (4438) files added so far); re-opening (prior size: 23418.8 KB)
+0277.005 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 43 (4481) files added so far); re-opening (prior size: 23436.6 KB)
+0280.104 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 4 (4485) files added so far); re-opening (prior size: 23566.9 KB)
+0283.691 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4500 files added (on-disk size: 23571.8 KB)
+0283.928 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 23 (4508) files added so far); re-opening (prior size: 23571.8 KB)
+0287.933 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 49 (4557) files added so far); re-opening (prior size: 23597.9 KB)
+0291.921 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 22 (4579) files added so far); re-opening (prior size: 23667.9 KB)
+0294.945 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 21 (4600) files added so far); re-opening (prior size: 23694.6 KB)
+0296.226 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4600 files added (on-disk size: 23727.2 KB)
+0298.982 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 7 (4607) files added so far); re-opening (prior size: 23727.2 KB)
+0302.942 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 50 (4657) files added so far); re-opening (prior size: 23738.9 KB)
+0307.895 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4700 files added (on-disk size: 23819.2 KB)
+0308.007 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 44 (4701) files added so far); re-opening (prior size: 23819.2 KB)
+0311.201 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 12 (4713) files added so far); re-opening (prior size: 23884.6 KB)
+0314.938 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 14 (4727) files added so far); re-opening (prior size: 23902.9 KB)
+0315.875 (0) The time we have been running (315.5) is approaching the resumption interval (345) - increasing resumption interval to 346
+0318.927 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 18 (4745) files added so far); re-opening (prior size: 23922.9 KB)
+0320.186 (0) The time we have been running (319.6) is approaching the resumption interval (346) - increasing resumption interval to 350
+0323.044 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 31 (4776) files added so far); re-opening (prior size: 23946 KB)
+0325.365 (0) The time we have been running (324.8) is approaching the resumption interval (350) - increasing resumption interval to 355
+0327.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 8 (4784) files added so far); re-opening (prior size: 23994.2 KB)
+0330.368 (0) The time we have been running (329.9) is approaching the resumption interval (355) - increasing resumption interval to 360
+0332.945 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 11 (4795) files added so far); re-opening (prior size: 24001.2 KB)
+0334.240 (0) The time we have been running (333.9) is approaching the resumption interval (360) - increasing resumption interval to 364
+0335.525 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4800 files added (on-disk size: 24067.8 KB)
+0336.942 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 20 (4815) files added so far); re-opening (prior size: 24067.8 KB)
+0339.383 (0) The time we have been running (338.6) is approaching the resumption interval (364) - increasing resumption interval to 369
+0342.009 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 29 (4844) files added so far); re-opening (prior size: 24091.6 KB)
+0344.654 (0) The time we have been running (344.2) is approaching the resumption interval (369) - increasing resumption interval to 375
+0346.287 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 4900 files added (on-disk size: 24299.2 KB)
+0346.946 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 97 (4941) files added so far); re-opening (prior size: 24299.2 KB)
+0348.016 (0) The time we have been running (347.8) is approaching the resumption interval (375) - increasing resumption interval to 378
+0350.952 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 54 (4995) files added so far); re-opening (prior size: 26363.3 KB)
+0353.378 (0) The time we have been running (352.8) is approaching the resumption interval (378) - increasing resumption interval to 383
+0355.336 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 5000 files added (on-disk size: 27571.6 KB)
+0355.922 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 15 (5010) files added so far); re-opening (prior size: 27571.6 KB)
+0357.273 (0) The time we have been running (356.9) is approaching the resumption interval (383) - increasing resumption interval to 387
+0360.049 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 12 (5022) files added so far); re-opening (prior size: 27659.6 KB)
+0363.687 (0) The time we have been running (361.9) is approaching the resumption interval (387) - increasing resumption interval to 392
+0366.852 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 5100 files added (on-disk size: 27718.9 KB)
+0366.942 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 79 (5101) files added so far); re-opening (prior size: 27718.9 KB)
+0369.722 (0) The time we have been running (369) is approaching the resumption interval (392) - increasing resumption interval to 399
+0372.934 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 69 (5170) files added so far); re-opening (prior size: 28092.1 KB)
+0374.322 (0) The time we have been running (374) is approaching the resumption interval (399) - increasing resumption interval to 404
+0377.132 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 11 (5181) files added so far); re-opening (prior size: 28262.1 KB)
+0378.062 (0) The time we have been running (377.9) is approaching the resumption interval (404) - increasing resumption interval to 408
+0379.225 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 5200 files added (on-disk size: 28276.3 KB)
+0381.312 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 27 (5208) files added so far); re-opening (prior size: 28276.3 KB)
+0382.967 (0) The time we have been running (382.5) is approaching the resumption interval (408) - increasing resumption interval to 413
+0385.926 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 42 (5250) files added so far); re-opening (prior size: 28295.8 KB)
+0387.451 (0) The time we have been running (387.1) is approaching the resumption interval (413) - increasing resumption interval to 418
+0390.003 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 7 (5257) files added so far); re-opening (prior size: 28329.4 KB)
+0391.663 (0) The time we have been running (391) is approaching the resumption interval (418) - increasing resumption interval to 422
+0393.968 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 6 (5263) files added so far); re-opening (prior size: 28337.2 KB)
+0394.830 (0) The time we have been running (394.7) is approaching the resumption interval (422) - increasing resumption interval to 425
+0397.060 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 26 (5289) files added so far); re-opening (prior size: 28343.3 KB)
+0398.668 (0) The time we have been running (398.4) is approaching the resumption interval (425) - increasing resumption interval to 429
+0399.920 (0) Zip: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip.tmp: 5300 files added (on-disk size: 28395 KB)
+0400.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 48 (5337) files added so far); re-opening (prior size: 28395 KB)
+0401.885 (0) The time we have been running (401.7) is approaching the resumption interval (429) - increasing resumption interval to 432
+0405.202 (0) The time we have been running (404.9) is approaching the resumption interval (432) - increasing resumption interval to 435
+0407.040 (0) Created plugins zip (0) - 28521.4 KB in 405.2 s (70.4 KB/s) (sha1: d4ec2b4917cd64fe2d6b86fdcc3717f63a5ba0c5, sha256: 723bbe5a2ae54fdd31df25d9ce3b0470ea1d2d7491cf98245c774b0dead4c5ff)
+0407.749 (0) Beginning creation of dump of themes (split every: 400 MB)
+0407.976 (0) Total entities for the zip file: 7 directories, 20 files (0 skipped as non-modified), 0.3 MB
+0408.830 (0) The time we have been running (408.6) is approaching the resumption interval (435) - increasing resumption interval to 439
+0409.055 (0) Created themes zip (0) - 290.5 KB in 1.2 s (243.7 KB/s) (sha1: d4ce0bfc6b002daa2a7614b6b32a585ae3c22855, sha256: 60975060a4f813d8876746ee2ca83e689e57394c277d6c9a401baa679cd2032d)
+0409.286 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0409.358 (0) Looking for candidates to backup in: C:\xampp\htdocs\OpusCare/wp-content/uploads
+0409.442 (0) finding files: 2020: adding to list (1)
+0409.486 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0409.620 (0) Total entities for the zip file: 5 directories, 7 files (0 skipped as non-modified), 1.4 MB
+0410.252 (0) The time we have been running (410) is approaching the resumption interval (439) - increasing resumption interval to 440
+0410.653 (0) Created uploads zip (0) - 1450.3 KB in 1.1 s (1297.8 KB/s) (sha1: 3a0da086ab5d71c8ca82501adbc14a611c512d5d, sha256: 36af3c497d9e36ec24886d165b05d8c09ca20449359ec460b4c7e97157199179)
+0410.825 (0) Beginning backup of other directories found in the content directory (index: 0)
+0410.909 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0410.974 (0) Looking for candidates to backup in: C:\xampp\htdocs\OpusCare/wp-content
+0411.059 (0) finding files: advanced-cache.php: adding to list (1)
+0411.197 (0) finding files: index.php: adding to list (2)
+0411.380 (0) finding files: languages: adding to list (3)
+0411.611 (0) finding files: plugins: skipping: this is the plugins directory
+0411.920 (0) finding files: themes: skipping: this is the themes directory
+0412.075 (0) finding files: updraft: skipping: this is the updraft directory
+0412.203 (0) finding files: upgrade: skipping: excluded by options
+0412.331 (0) finding files: uploads: skipping: this is the uploads directory
+0412.398 (0) finding files: w3tc-config: adding to list (4)
+0412.886 (0) Total entities for the zip file: 4 directories, 37 files (0 skipped as non-modified), 2.5 MB
+0415.041 (0) The time we have been running (414.9) is approaching the resumption interval (440) - increasing resumption interval to 445
+0415.370 (0) Created others zip (0) - 738.7 KB in 2.9 s (256.2 KB/s) (sha1: c4ed4232f07c54e3d58dee8e530d32a9f3af27f6, sha256: a6d6d0f1c110a946aa448ea7901f690ebce42d61ff00b7e1b3a8b3741ced0316)
+0415.631 (0) Saving backup status to database (elements: 8)
+0415.764 (0) Beginning creation of database dump (WordPress DB)
+0415.999 (0) Table wp_options: Total expected rows (approximate): 184
+0416.142 (0) Table wp_options: Total rows added: 183 in 0.08 seconds
+0416.272 (0) Table wp_options: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_options.table.gz - 140.4 KB)
+0416.487 (0) The time we have been running (416.3) is approaching the resumption interval (445) - increasing resumption interval to 447
+0416.762 (0) Table wp_users: Total expected rows (approximate): 0
+0416.839 (0) Table wp_users: Total rows added: 1 in 0.01 seconds
+0416.937 (0) Table wp_users: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_users.table.gz - 0.5 KB)
+0417.193 (0) Table wp_usermeta: Total expected rows (approximate): 21
+0417.380 (0) Table wp_usermeta: Total rows added: 21 in 0.02 seconds
+0417.458 (0) Table wp_usermeta: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_usermeta.table.gz - 1 KB)
+0417.708 (0) The time we have been running (417.5) is approaching the resumption interval (447) - increasing resumption interval to 448
+0417.877 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 5
+0417.948 (0) Table wp_actionscheduler_actions: Total rows added: 5 in 0.02 seconds
+0418.241 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_actions.table.gz - 0.9 KB)
+0418.641 (0) The time we have been running (418.4) is approaching the resumption interval (448) - increasing resumption interval to 449
+0418.791 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0418.866 (0) Table wp_actionscheduler_claims: Total rows added: 0 in 0.01 seconds
+0418.937 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0419.153 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0419.409 (0) Table wp_actionscheduler_groups: Total rows added: 2 in 0.04 seconds
+0419.614 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0419.886 (0) The time we have been running (419.7) is approaching the resumption interval (449) - increasing resumption interval to 450
+0420.161 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 11
+0420.453 (0) Table wp_actionscheduler_logs: Total rows added: 11 in 0.16 seconds
+0420.615 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_logs.table.gz - 0.6 KB)
+0420.853 (0) The time we have been running (420.7) is approaching the resumption interval (450) - increasing resumption interval to 451
+0421.120 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0421.182 (0) Table wp_commentmeta: Total rows added: 0 in 0.02 seconds
+0421.229 (0) Table wp_commentmeta: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0421.619 (0) The time we have been running (421.3) is approaching the resumption interval (451) - increasing resumption interval to 452
+0421.760 (0) Table wp_comments: Total expected rows (approximate): 0
+0421.824 (0) Table wp_comments: Total rows added: 1 in 0.02 seconds
+0421.866 (0) Table wp_comments: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_comments.table.gz - 0.7 KB)
+0422.077 (0) Table wp_links: Total expected rows (approximate): 0
+0422.159 (0) Table wp_links: Total rows added: 0 in 0.02 seconds
+0422.246 (0) Table wp_links: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_links.table.gz - 0.4 KB)
+0422.909 (0) The time we have been running (422.7) is approaching the resumption interval (452) - increasing resumption interval to 453
+0423.162 (0) Table wp_postmeta: Total expected rows (approximate): 73
+0423.240 (0) Table wp_postmeta: Total rows added: 73 in 0.02 seconds
+0423.532 (0) Table wp_postmeta: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_postmeta.table.gz - 1.5 KB)
+0423.920 (0) The time we have been running (423.7) is approaching the resumption interval (453) - increasing resumption interval to 454
+0424.157 (0) Table wp_posts: Total expected rows (approximate): 26
+0424.217 (0) Table wp_posts: Total rows added: 26 in 0.02 seconds
+0424.381 (0) Table wp_posts: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_posts.table.gz - 3.1 KB)
+0424.764 (0) The time we have been running (424.5) is approaching the resumption interval (454) - increasing resumption interval to 455
+0425.057 (0) Table wp_term_relationships: Total expected rows (approximate): 0
+0425.228 (0) Table wp_term_relationships: Total rows added: 1 in 0.02 seconds
+0425.271 (0) Table wp_term_relationships: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_term_relationships.table.gz - 0.3 KB)
+0425.753 (0) The time we have been running (425.3) is approaching the resumption interval (455) - increasing resumption interval to 456
+0426.036 (0) Table wp_term_taxonomy: Total expected rows (approximate): 0
+0426.106 (0) Table wp_term_taxonomy: Total rows added: 1 in 0.02 seconds
+0426.272 (0) Table wp_term_taxonomy: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0426.631 (0) The time we have been running (426.3) is approaching the resumption interval (456) - increasing resumption interval to 457
+0426.871 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0427.038 (0) Table wp_termmeta: Total rows added: 0 in 0.02 seconds
+0427.115 (0) Table wp_termmeta: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_termmeta.table.gz - 0.4 KB)
+0427.354 (0) The time we have been running (427.2) is approaching the resumption interval (457) - increasing resumption interval to 458
+0427.986 (0) Table wp_terms: Total expected rows (approximate): 0
+0428.050 (0) Table wp_terms: Total rows added: 1 in 0.02 seconds
+0428.249 (0) Table wp_terms: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_terms.table.gz - 0.4 KB)
+0429.164 (0) The time we have been running (428.5) is approaching the resumption interval (458) - increasing resumption interval to 459
+0429.678 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 3
+0429.865 (0) Table wp_wpforms_tasks_meta: Total rows added: 3 in 0.04 seconds
+0430.105 (0) Table wp_wpforms_tasks_meta: finishing file (backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_wpforms_tasks_meta.table.gz - 0.5 KB)
+0430.714 (0) The time we have been running (430.2) is approaching the resumption interval (459) - increasing resumption interval to 461
+0431.086 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_options.table.gz (1/17): adding to final database dump
+0431.282 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_users.table.gz (2/17): adding to final database dump
+0431.432 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_usermeta.table.gz (3/17): adding to final database dump
+0431.610 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_actions.table.gz (4/17): adding to final database dump
+0431.843 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_claims.table.gz (5/17): adding to final database dump
+0431.909 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_groups.table.gz (6/17): adding to final database dump
+0432.066 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_actionscheduler_logs.table.gz (7/17): adding to final database dump
+0432.132 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_commentmeta.table.gz (8/17): adding to final database dump
+0432.221 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_comments.table.gz (9/17): adding to final database dump
+0432.454 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_links.table.gz (10/17): adding to final database dump
+0432.499 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_postmeta.table.gz (11/17): adding to final database dump
+0432.743 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_posts.table.gz (12/17): adding to final database dump
+0432.955 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_term_relationships.table.gz (13/17): adding to final database dump
+0433.056 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_term_taxonomy.table.gz (14/17): adding to final database dump
+0433.099 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_termmeta.table.gz (15/17): adding to final database dump
+0433.154 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_terms.table.gz (16/17): adding to final database dump
+0433.277 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db-table-wp_wpforms_tasks_meta.table.gz (17/17): adding to final database dump
+0433.354 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db.gz: finished writing out complete database file (136 KB)
+0433.865 (0) Total database tables backed up: 17 (backup_2020-06-05-2227_Opus_Care_53d9968de081-db.gz, size: 151268, sha256)
+0434.032 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0434.176 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0434.232 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0434.288 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-others.zip: others: This file has not yet been successfully uploaded: will queue
+0434.343 (0) backup_2020-06-05-2227_Opus_Care_53d9968de081-db.gz: db: This file has not yet been successfully uploaded: will queue
+0434.501 (0) Saving backup history. Total backup size: 30.4 MB
+0434.776 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0434.899 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0434.932 (0) No remote despatch: user chose no remote backup service
+0435.054 (0) Recording as successfully uploaded: backup_2020-06-05-2227_Opus_Care_53d9968de081-plugins.zip
+0435.143 (0) Recording as successfully uploaded: backup_2020-06-05-2227_Opus_Care_53d9968de081-themes.zip
+0435.321 (0) Recording as successfully uploaded: backup_2020-06-05-2227_Opus_Care_53d9968de081-uploads.zip
+0435.387 (0) Recording as successfully uploaded: backup_2020-06-05-2227_Opus_Care_53d9968de081-others.zip
+0435.576 (0) Recording as successfully uploaded: backup_2020-06-05-2227_Opus_Care_53d9968de081-db.gz
+0436.188 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0436.290 (0) Number of backup sets in history: 2; groups (db): 1
+0436.476 (0) Examining (for databases) backup set with group_id=0, nonce=53d9968de081, datestamp=1591406875 (Jun 06 2020 01:27:55)
+0436.537 (0) This backup set is the backup set just made, so will not be deleted.
+0436.537 (0) Examining (for databases) backup set with group_id=0, nonce=9a3c0c0fa34e, datestamp=1585688400 (Mar 31 2020 21:00:00)
+0436.537 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0436.732 (0) Number of backup sets in history: 2; groups (files): 1
+0436.810 (0) Examining (for files) backup set with nonce=53d9968de081, datestamp=1591406875 (Jun 06 2020 01:27:55)
+0436.810 (0) This backup set is the backup set just made, so will not be deleted.
+0436.887 (0) This backup set is the backup set just made, so will not be deleted.
+0436.887 (0) This backup set is the backup set just made, so will not be deleted.
+0436.887 (0) This backup set is the backup set just made, so will not be deleted.
+0436.888 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0437.010 (0) Examining (for files) backup set with nonce=9a3c0c0fa34e, datestamp=1585688400 (Mar 31 2020 21:00:00)
+0437.010 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0437.042 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0437.276 (0) Resume backup (53d9968de081, 0): finish run
+0437.656 (0) Decremented the semaphore (fd) by 1
+0437.921 (0) Semaphore (fd) unlocked
+0437.954 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0438.132 (0) The backup apparently succeeded and is now complete
+0438.165 (0) No email will/can be sent - the user has not configured an email address.
+0438.221 (0) O backup aparentemente foi bem sucedido e está completo agora.

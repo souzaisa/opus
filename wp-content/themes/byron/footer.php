@@ -9,16 +9,16 @@
         <div class="contato-footer">
             <h5>Contato</h5>
             <div class="info-footer">
-                <p>mail@mail.com</p>
-                <p>(35)999109931</p>
+                <p><?php the_field('e-mail', 24); ?></p>
+                <p><?php the_field('telefone', 24); ?></p>
             </div>
         </div>
         <div class="contato-footer">
             <h5>Redes Sociais</h5>
             <div class="icones-footer">
-                <i class="fab fa-facebook-square"></i>
-                <i class="fab fa-instagram"></i>
-                <i class="fab fa-whatsapp"></i>
+                <a href="<?php the_field('facebook', 24); ?>" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                <a href="<?php the_field('instagram', 24); ?>" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="<?php the_field('whatsapp', 24); ?>" target="_blank"><i class="fab fa-whatsapp"></i></a>
             </div>
         </div>
     </div>
