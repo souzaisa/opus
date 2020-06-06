@@ -24,59 +24,22 @@ Tags: byron.solutions
     box-sizing: border-box !important;
     font-family: 'Poppins', sans-serif;
 }
-
-.example {
-
+/* Plugin Whatsapp  */
+.chip {
+    background-color: #62bcb7!important;
+    color: white!important;
+    display: flex !important;
+    font-size: 1rem !important;
+    text-align: center !important;
+    align-items: center !important;
+    flex-direction: row-reverse;
+}
+.chip img{
+    margin: 0 8px 0 -10px!important;
+    height: 30px!important;
+    width: 30px!important;
 }
 
-#example {
-
-}
-
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-    .example {
-
-    }
-    
-    #example {
-    
-    }
-} 
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-    .example {
-
-    }
-    
-    #example {
-    
-    }
-} 
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-    .example {
-
-    }
-    
-    #example {
-    
-    }
-} 
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-    .example {
-
-    }
-    
-    #example {
-    
-    }
-}
 /*  Página de Serviços  */
 .p-servicos{
     padding: 1rem;
